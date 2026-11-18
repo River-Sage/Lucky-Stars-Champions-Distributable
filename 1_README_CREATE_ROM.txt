@@ -1,4 +1,4 @@
-LUCKY STARS CHAMPIONS v5.1.38-r334
+LUCKY STARS CHAMPIONS v5.1.38-r335
 
 1. Extract the whole package.
 2. Put your own Yu-Gi-Oh! Forbidden Memories (USA) BIN in Place_Vanilla_Rom_Here.
@@ -11,4 +11,7 @@ Retail SHA-256
 
 The builder validates the source, patch, and finished image. If it reports an error, check Last_Run_Log.txt beside the EXE.
 
-Open 2_READ_ME_GAMEPLAY.html for the gameplay guide. Drop tables, enemy decks, and farming guides are in the Champions folder.
+Open 2_READ_ME_GAMEPLAY.html for the gameplay guide.
+Open Drop_Tables.html and Enemy_Decks.html for the two reference lists.
+
+Unique save entry: BASLUS-01411-LSCHMP
