@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gameplay Readme | Lucky Stars Champions</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --page: light-dark(#f6f8fb, #111827);
+      --panel: light-dark(#fff, #1a2538);
+      --hover: light-dark(#eaf0fa, #263752);
+      --ink: light-dark(#18243b, #edf3ff);
+      --accent: light-dark(#224b83, #c5d9ff);
+      --rule: light-dark(#abb9d0, #4a5e80);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font: 1rem/1.65 Inter, system-ui, sans-serif; }
+    main { width: min(48rem, calc(100% - 2rem)); margin: 0 auto; padding: clamp(2rem, 6vw, 4rem) 0 3rem; }
+    p { margin: 0 0 .9rem; }
+    header > p { max-width: 70ch; }
+    h1 { margin: 0 0 1rem; font-size: clamp(2rem, 6vw, 3.25rem); letter-spacing: -.035em; line-height: 1.13; }
+    h2, h3 { margin: 0 0 .5rem; font-size: 1.15rem; line-height: 1.35; }
+    h3 { margin-top: 1.25rem; font-size: 1rem; }
+    .game-title { margin-bottom: .15rem; font-weight: 700; color: var(--accent); }
+    .fast-forward { margin: 1.35rem 0; padding: .15rem 0 .15rem 1rem; border-left: 3px solid var(--accent); }
+    .fast-forward p { margin: 0; }
+    kbd { font: inherit; font-weight: 650; border: 1px solid var(--rule); border-radius: .25em; padding: .05em .35em; }
+    summary:focus-visible { outline: 2px solid var(--accent); outline-offset: .14rem; }
+    details { margin: .65rem 0; border: 1px solid var(--rule); border-radius: .6rem; background: var(--panel); scroll-margin-top: .8rem; }
+    details details { background: var(--page); }
+    summary { cursor: pointer; padding: .55rem .9rem; min-height: 2.75rem; font-weight: 650; border-radius: inherit; }
+    summary:hover { background: var(--hover); }
+    summary::marker { color: var(--accent); }
+    details[open] > summary { border-bottom: 1px solid var(--rule); border-radius: .6rem .6rem 0 0; }
+    .section-body { padding: .9rem; }
+    .section-body > :first-child { margin-top: 0; }
+    .section-body > :last-child { margin-bottom: 0; }
+    ol { margin: 0; padding-left: 1.3rem; }
+    ol li + li { margin-top: .6rem; }
+    .aside { margin: .45rem 0 0; padding-left: .7rem; border-left: 1px solid var(--rule); }
+    table { width: 100%; border-collapse: collapse; margin: .65rem 0 .85rem; font-size: .9rem; }
+    th, td { text-align: left; vertical-align: top; padding: .45rem .4rem; border-bottom: 1px solid var(--rule); }
+    .band { display: inline-block; }
+    .separator { color: var(--rule); }
+    @media (max-width: 30rem) { .section-body { padding: .65rem; } th, td { padding: .35rem .25rem; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="game-title">Lucky Stars Champions</p>
+      <h1>Gameplay Readme</h1>
+      <p><strong>Thanks for playing Lucky Stars Champions!</strong> This mod introduces many mechanics in addition to the original Forbidden Memories, but it should feel familiar to anyone who has played the original. The difficulty spikes can, with a bit of bad luck, feel rather brutal, so <strong>practicing safe-save-states is recommended</strong>.</p>
+      <p>Feel free to jump right in. If you would rather discover the rules yourself, stop after the Fast forward note (recommended. You can&#x27;t unsee the strategies below!) - but if you feel lost or want a few basics, the rest of this guide is here if you need it.</p>
+    </header>
+    <section class="fast-forward" aria-labelledby="fast-forward">
+      <h2 id="fast-forward">Fast forward</h2>
+      <p>Press <kbd>Select</kbd> to toggle fast forward during a duel. Turn it off to see each effect resolve in sequence.</p>
+    </section>
+    <section aria-labelledby="spoilers">
+      <h2 id="spoilers">Gameplay spoilers</h2>
+      <details id="differences"><summary>Differences from Vanilla</summary><div class="section-body"><ol><li><strong>Guardian Stars.</strong> The game centers on the four inner Guardian Stars of Sun, Moon, Venus, and Mercury. Standard monsters have one of those as their primary Star. Many spells and creature effects change Stars or take advantage of their matchups.</li>
+<li><strong>Creature types.</strong> Each creature type has its own concentrated strategy. Each creature type also has an assigned star, with each star housing five different creature types. Creatures of the same type often work together around a core strategy, but nothing is &#x27;clan-locked&#x27; like in TCG, so have fun finding &#x27;broken&#x27; inter-type combos! You will need them for the gauntlet, as I pulled no punches in the end-game deck designs.</li>
+<li><strong>The effect stack.</strong> New effects can join the stack (TCG &#x27;chain&#x27;) while it resolves. The newest effect resolves first, then analyzes for other triggered effects to add to the stack, resolving dynamically in a &#x27;last-in-first-out&#x27; (LIFO) fashion. This is similar to, but different than the &#x27;chain&#x27; in TCG. <p class="aside">It was the only way I could find to realize the vision with the limited PS1 RAM. (The TCG chain resolves completely before analyzing triggers and starting a new chain. Champions effect resolution is better thought of as a &#x27;Stack&#x27;)</p></li>
+<li><strong>Pluto is no longer a planet.</strong> Don&#x27;t be mad at me, be mad at the scientific community! Don&#x27;t worry, you won&#x27;t even notice ;&gt; (Having 5 outer planets instead of six created perfect geometry)</li></ol></div></details>
+<details id="fusion"><summary>Fusion Guide</summary><div class="section-body"><ol><li><strong>Match levels.</strong> Fuse two monsters of the same level to make a monster one level higher, as long as there is a next level.</li>
+<li><strong>Color Codes.</strong> Monster names are color-coded by level. Match their name colors or count their level stars. If two creatures have the same color name, they can be fused.</li>
+<li><strong>Choose the result.</strong> Two monsters of the same creature type produce a &quot;Concentrated&quot; fusion of that type. With two different types, the second monster determines the resulting &quot;Main&quot; fusion.</li>
+<li><strong>Concentrated/Main Fusions.</strong> &#x27;Concentrated&#x27; fusion results have the clan&#x27;s core strategy as their effect. &#x27;Main&#x27; fusion results have that clan&#x27;s STAR strategy as their effect. (STAR strategies always correlate to the star the creature-type plays in, and each creature type has a different star strategy)</li></ol></div></details>
+<details id="farming"><summary>Farming Guide</summary><div class="section-body"><p>Look for a duelist near the level of the cards you want, who plays the Guardian Star you want to farm. Those duelists also drop the Spell and Trap support for the creature types in that Star at the levels they cover.</p><p>An &quot;extra&quot; duelist at a given level can drop cards from every Guardian Star at that level. The &quot;extra&quot; duelists are Simon Muran, Jono, Heishin, Labyrinth Mage, Seto 2nd, DarkNite, Nitemare, and Duel Master K. The Dragon restriction below still applies.</p><p><strong>Dragon drops.</strong> Only Seto, Kaiba, Seto 2nd, Seto 3rd, and Nitemare drop Dragon monsters. (Dragons have the highest base atk in the game; this was simply a design choice)</p><p>Duelists can drop cards below their own level. Pushing ahead to higher-level opponents gives you a better chance at stronger cards. Some combo pieces are only available at lower levels or in specific level ranges though, so it can pay to revisit earlier opponents.</p><details id="drop-pools"><summary>Drop Pool Guide</summary><div class="section-body"><h3>Farming tips</h3><p>S/A POW ranks are &#x27;easier&#x27; to earn in this mod, where duels tend to last longer than in the original Forbidden Memories. As a rule of thumb, once you get down to around 20 cards left in your Deck, you may begin to slip into the B/C/D pool.</p><p>Cards left in your Deck have the biggest impact on reaching S/A TEC, but the other duel stats still make a big difference. Five or fewer cards remaining gives you a good shot. Aim for 5, 3, or 1 card left, with a bigger boost at 3 and the biggest at 1. &#x27;Decking the opponent out&#x27; still gives you an automatic S-TEC.</p><details id="duel-rank"><summary>In-Depth Duel Rank Calculations</summary><div class="section-body"><p>Start at 50 points. Add 2 for an ordinary Life Point win or 40 for an Exodia win, then add one value per row for your final duel totals. Use the band you finish in.</p><h3>Champions action points</h3><table><thead><tr><th scope="col">Duel stat</th><th scope="col">Final total = points</th></tr></thead><tbody><tr><th scope="row">Turns</th><td><span class="band">0–4 = +11</span> <span class="separator">|</span> <span class="band">5–6 = +7</span> <span class="separator">|</span> <span class="band">7–9 = +2</span> <span class="separator">|</span> <span class="band">10–13 = -4</span> <span class="separator">|</span> <span class="band">14+ = -12</span></td></tr><tr><th scope="row">Effective attacks</th><td><span class="band">0–1 = +4</span> <span class="separator">|</span> <span class="band">2 = +2</span> <span class="separator">|</span> <span class="band">3 = -2</span> <span class="separator">|</span> <span class="band">4–6 = -6</span> <span class="separator">|</span> <span class="band">7+ = -10</span></td></tr><tr><th scope="row">Defensive wins</th><td><span class="band">0 = 0</span> <span class="separator">|</span> <span class="band">1–2 = -3</span> <span class="separator">|</span> <span class="band">3–5 = -10</span> <span class="separator">|</span> <span class="band">6–9 = -20</span> <span class="separator">|</span> <span class="band">10+ = -35</span></td></tr><tr><th scope="row">Face-down plays</th><td><span class="band">0–3 = 0</span> <span class="separator">|</span> <span class="band">4–6 = -3</span> <span class="separator">|</span> <span class="band">7–9 = -8</span> <span class="separator">|</span> <span class="band">10–14 = -15</span> <span class="separator">|</span> <span class="band">15+ = -22</span></td></tr><tr><th scope="row">Spells used</th><td><span class="band">0–2 = +2</span> <span class="separator">|</span> <span class="band">3 = -2</span> <span class="separator">|</span> <span class="band">4–5 = -8</span> <span class="separator">|</span> <span class="band">6–9 = -16</span> <span class="separator">|</span> <span class="band">10+ = -24</span></td></tr><tr><th scope="row">Traps triggered</th><td><span class="band">0 = +2</span> <span class="separator">|</span> <span class="band">1–2 = -1</span> <span class="separator">|</span> <span class="band">3–4 = -7</span> <span class="separator">|</span> <span class="band">5–7 = -14</span> <span class="separator">|</span> <span class="band">8+ = -22</span></td></tr><tr><th scope="row">Cards left in Deck</th><td><span class="band">19–40 = +15</span> <span class="separator">|</span> <span class="band">6–18 = +11</span> <span class="separator">|</span> <span class="band">4–5 = -21</span> <span class="separator">|</span> <span class="band">2–3 = -35</span> <span class="separator">|</span> <span class="band">1 = -50</span></td></tr><tr><th scope="row">LP missing</th><td><span class="band">&lt;1/12 = +6</span> <span class="separator">|</span> <span class="band">1/12–&lt;1/4 = +4</span> <span class="separator">|</span> <span class="band">1/4–&lt;1/3 = 0</span> <span class="separator">|</span> <span class="band">1/3–&lt;2/3 = -4</span> <span class="separator">|</span> <span class="band">2/3+ = -14</span></td></tr><tr><th scope="row">Fusion steps</th><td><span class="band">0–4 = +4</span> <span class="separator">|</span> <span class="band">5–7 = -1</span> <span class="separator">|</span> <span class="band">8–11 = -6</span> <span class="separator">|</span> <span class="band">12–17 = -13</span> <span class="separator">|</span> <span class="band">18+ = -22</span></td></tr><tr><th scope="row">Equips used</th><td><span class="band">0 = +4</span> <span class="separator">|</span> <span class="band">1–2 = +2</span> <span class="separator">|</span> <span class="band">3–4 = -3</span> <span class="separator">|</span> <span class="band">5–7 = -8</span> <span class="separator">|</span> <span class="band">8+ = -14</span></td></tr></tbody></table><p>LP missing means starting LP minus current LP. Round each fraction of starting LP down to a whole number before comparing. If your opponent decks out, you earn S TEC automatically.</p><h3>Reward pool cutoffs</h3><table><thead><tr><th scope="col">Pool</th><th scope="col">Final points</th><th scope="col">Displayed rank</th></tr></thead><tbody><tr><th scope="row">S/A POW</th><td>80 or more</td><td><span class="band">A POW at 80–89</span> <span class="separator">|</span> <span class="band">S POW at 90+</span></td></tr><tr><th scope="row">B/C/D</th><td>20–79</td><td><span class="band">TEC at 20–49</span> <span class="separator">|</span> <span class="band">POW at 50–79</span></td></tr><tr><th scope="row">S/A TEC</th><td>19 or less</td><td><span class="band">A TEC at 10–19</span> <span class="separator">|</span> <span class="band">S TEC at 9 or less</span></td></tr></tbody></table><p>Within B/C/D, each ten-point band is one rank. From 20 to 79, the ranks run B TEC, C TEC, D TEC, D POW, C POW, B POW.</p><h3>What each pool drops</h3><p><strong>S/A POW.</strong> About two-thirds Main and Concentrated monsters and one-third combo pieces (rares) and support. The monster pool usually includes the duelist&#x27;s level and one above or below.</p><p><strong>B/C/D.</strong> Monsters only. These are Main and Concentrated monsters at the duelist&#x27;s level and up to two levels below.</p><p><strong>S/A TEC.</strong> This targets combo pieces and support (Rares), including Spells, Traps and Equips. Nitemare can also drop level 10 Main and Concentrated monsters in both S/A pools.</p></div></details></div></details></div></details>
+<details id="speedrunning"><summary>Speedrunning</summary><div class="section-body"><p>I designed the game and its drop lists with the possibility of speedrunning in mind. I did my best to make it so that game knowledge is more important than RNG, and that with proper game knowledge, the real time-consuming aspect will be strategizing- rather than simply farming a specific card in free duels. In my experience, it is entirely possible (yet still strategically difficult) to beat the campaign with just the cards you get along the way, and no free duels. There is still however, a small chance of bad RNG causing hiccups, but that&#x27;s FMR for you :&gt;</p></div></details>
+<details id="creator"><summary>Note From the Creator</summary><div class="section-body"><p>I grew up on this game, and I&#x27;m sure many of you have, too. When building this mod, I did my best to create the game I thought I was buying when I was nine years old. This mod is a passion project, and I am very proud of the result. I went through a lot of pain building it, but it was all worth it. My hope is that at least one other person out there enjoys playing this as much as I do. Good luck, Have fun!</p><p>Sincerely,<br>River</p></div></details>
+    </section>
+  </main>
+</body>
+</html>

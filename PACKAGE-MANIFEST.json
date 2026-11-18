@@ -1,0 +1,115 @@
+{
+  "title": "Lucky Stars Champions",
+  "version": "5.1.38-speedrun-integrity-r334-CLASSIC-ART",
+  "target_sha256": "ee45badd1d740ff32e276c001a256ade9684256502bb0fa288843e28c3bb8016",
+  "retail_sha256": "6e22494a45bf50fa2d239cd3819a57163a5f9b91e0365babc3e101509b5c3a7c",
+  "executable": "Create_Champions.exe",
+  "generated": [
+    "Champions/Champions.bin",
+    "Champions/Champions.cue"
+  ],
+  "guide_audit": {
+    "fixed_decks": 38,
+    "reward_pools": 117,
+    "deck_rows": 1276,
+    "reward_rows": 7010,
+    "farming_rows": 797
+  },
+  "files": [
+    {
+      "path": "1_README_CREATE_ROM.txt",
+      "bytes": 706,
+      "sha256": "e4ad55f95cf7a67c4accd027c6f3844fb5739068a31d2c4b7dccb3f008efa35b"
+    },
+    {
+      "path": "2_READ_ME_GAMEPLAY.html",
+      "bytes": 15360,
+      "sha256": "d8ae8cf4be0d79a61b65dd815d6125e6b481be4cc67687d038602b41d780dfe0"
+    },
+    {
+      "path": "Champions/Combo-Farmlist.md",
+      "bytes": 29850,
+      "sha256": "af896847596db10d8416f1aeb82fd2f6baab55a1974982185615ae7105cc78e7"
+    },
+    {
+      "path": "Champions/Combo-Support-Effects.xml",
+      "bytes": 46131,
+      "sha256": "e5a2025de1a071367123a0a9f68193fc04766c8b71e7954a4af1ca0ab8d0c222"
+    },
+    {
+      "path": "Champions/Combo_Hunt.csv",
+      "bytes": 81760,
+      "sha256": "ae0b71b1985a7eb4a92647dc5c80f4caf9026d43b4a559cb96dac3e90066c2e0"
+    },
+    {
+      "path": "Champions/Combo_Hunt.html",
+      "bytes": 174164,
+      "sha256": "d620ec093884f3decbb8e7e7b936cfeb4c6fc2235a40d30e0a1c959eb8277335"
+    },
+    {
+      "path": "Champions/DeckList.xml",
+      "bytes": 154651,
+      "sha256": "4459abc81b3da6fb62d87828de20e8a6c1468dbe50398cf21c06f47ac15aced3"
+    },
+    {
+      "path": "Champions/Drop_Tables.csv",
+      "bytes": 744310,
+      "sha256": "837e72b01bd3227ebbdc956c6ea3b0c550f928c0c803af37a2c90023e6bf47d1"
+    },
+    {
+      "path": "Champions/Drop_Tables.html",
+      "bytes": 1287388,
+      "sha256": "ae2c33d3bf89f42cc31fc06505394b2f17af164b083c5615eaedc3a7d855f0e6"
+    },
+    {
+      "path": "Champions/DropList.xml",
+      "bytes": 1127536,
+      "sha256": "65832bd9d4a43e869d0e98bfabe4a17f812e414500b750c6c3f424f4b70fad43"
+    },
+    {
+      "path": "Champions/Enemy_Decks.csv",
+      "bytes": 102364,
+      "sha256": "57757a77d1be679b84565c7e8c3c2be27bc65e7081a1756b68f3de687d9b8a87"
+    },
+    {
+      "path": "Champions/Enemy_Decks.html",
+      "bytes": 173402,
+      "sha256": "09f1ca5c539f42c58d25dfc73613c0c5959cab67878c790c1c7bad4f66dc95c5"
+    },
+    {
+      "path": "Champions/Keywords.html",
+      "bytes": 17069,
+      "sha256": "3fe3faa0cb78a80f6a5b920445e5413be3cf581b6b534a17d63259634c9c5fcc"
+    },
+    {
+      "path": "Champions/Keywords.txt",
+      "bytes": 4332,
+      "sha256": "efa8dc6538d739ce0950341952b92a29e3f901074fc2d1eb574ffa62b9177a6d"
+    },
+    {
+      "path": "Champions/Lucky-Stars-Champions-v5.1.38-r334.lsxp",
+      "bytes": 12062233,
+      "sha256": "425eb4bb920b8c84e8b2b527fd4e283df7173b3a0a638795d915c6168512215e"
+    },
+    {
+      "path": "Champions/LuckyStars.build.ini",
+      "bytes": 369,
+      "sha256": "3fca16a4e5f75bf55ca891bac0abde92b6ed3a0f1247ff50751d3dce1494fe69"
+    },
+    {
+      "path": "Champions/README.html",
+      "bytes": 3034,
+      "sha256": "ebd8477022700082fe485b2215d9dd5caa64411971942a75a05f6f9427752f63"
+    },
+    {
+      "path": "Create_Champions.exe",
+      "bytes": 18944,
+      "sha256": "fce52ef39f44fe1cc8d24f49450b41362302ca4a3d723dc213c07fbf463e5f2c"
+    },
+    {
+      "path": "LEGAL_AND_CONTENT_NOTICE.txt",
+      "bytes": 362,
+      "sha256": "99dc94f2b4eab4640bc45597f714d905b05bf11044b08c497963767967fe32eb"
+    }
+  ]
+}

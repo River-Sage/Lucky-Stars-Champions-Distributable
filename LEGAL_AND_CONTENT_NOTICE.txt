@@ -1,0 +1,4 @@
+﻿Lucky Stars is an unofficial fan modification. 
+This clean distributor contains only original documentation, Windows builder programs, and compressed XOR delta data. 
+It contains no retail or prebuilt game image and requires the user to supply their own legally obtained exact retail image. 
+Yu-Gi-Oh! and related marks belong to their respective owners.

@@ -1,0 +1,798 @@
+﻿Duelist ID,Duelist,LVL,House,Card ID,Combo Piece,Kind,Card LVL,S/A POW,S/A TEC,B/C/D
+1,Simon Muran,1,Sun,284,Adama Researcher,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,300,Alien Ammonite,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,288,Atlantean Marksman,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,297,Babycerasaurus,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,293,Beast Soul Swap,trap,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,295,Dancing Fairy,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,296,Dekoichi,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,283,Exiled Force,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+1,Simon Muran,1,Sun,286,Fabled Raven,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,292,Harpie Harpist,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,298,Magician of Faith,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,294,Mystic Tomato,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,299,Needle Worm,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,287,Skull Servant,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,285,Solar Flare Dragon,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,282,T.Dragonmatrix,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+1,Simon Muran,1,Sun,290,Treeborn Frog,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,289,White Stingray,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,291,Zoodiac Ratpier,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,320,Alien Brain,trap,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,308,Atlantean Squad,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,307,Book of Life,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,319,Bug Emergency,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,301,Dmaid Welcome,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,311,Fire Formation.,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,309,Fish Sonar,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,312,Hysteric Sign,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,313,Kalantosa,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,316,Machine Assembly,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,314,Rikka Konkon,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,315,Sanctuary in the Sky,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,304,Shield and Sword,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,303,Skyscraper,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,318,Spellbook of E.,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,317,Stumbling,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,302,T.Dragon Fusion,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,305,Dark Room of Nightmare,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,310,Water Hazard,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+1,Simon Muran,1,Sun,306,Wave-Motion Inferno,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+2,Teana,1,Venus,293,Beast Soul Swap,trap,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,295,Dancing Fairy,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,292,Harpie Harpist,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,294,Mystic Tomato,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,291,Zoodiac Ratpier,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,311,Fire Formation.,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,312,Hysteric Sign,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,313,Kalantosa,monster,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,314,Rikka Konkon,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+2,Teana,1,Venus,315,Sanctuary in the Sky,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+3,Jono,1,Sun,284,Adama Researcher,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,300,Alien Ammonite,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,288,Atlantean Marksman,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,297,Babycerasaurus,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,293,Beast Soul Swap,trap,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,295,Dancing Fairy,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,296,Dekoichi,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,283,Exiled Force,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+3,Jono,1,Sun,286,Fabled Raven,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,292,Harpie Harpist,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,298,Magician of Faith,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,294,Mystic Tomato,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,299,Needle Worm,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,287,Skull Servant,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,285,Solar Flare Dragon,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,282,T.Dragonmatrix,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+3,Jono,1,Sun,290,Treeborn Frog,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,289,White Stingray,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,291,Zoodiac Ratpier,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,320,Alien Brain,trap,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,308,Atlantean Squad,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,307,Book of Life,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,319,Bug Emergency,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,301,Dmaid Welcome,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,311,Fire Formation.,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,309,Fish Sonar,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,312,Hysteric Sign,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,313,Kalantosa,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,316,Machine Assembly,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,314,Rikka Konkon,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,315,Sanctuary in the Sky,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,304,Shield and Sword,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,303,Skyscraper,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,318,Spellbook of E.,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,317,Stumbling,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+3,Jono,1,Sun,302,T.Dragon Fusion,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,305,Dark Room of Nightmare,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,310,Water Hazard,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+3,Jono,1,Sun,306,Wave-Motion Inferno,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+4,Villager 1,1,Sun,284,Adama Researcher,monster,1,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,283,Exiled Force,monster,1,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,285,Solar Flare Dragon,monster,1,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,282,T.Dragonmatrix,monster,1,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,304,Shield and Sword,spell,2,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,303,Skyscraper,spell,2,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,302,T.Dragon Fusion,spell,2,16/2048 (0.781250%),48/2048 (2.343750%),—
+4,Villager 1,1,Sun,305,Dark Room of Nightmare,spell,2,16/2048 (0.781250%),48/2048 (2.343750%),—
+5,Villager 2,1,Moon,288,Atlantean Marksman,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,286,Fabled Raven,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,287,Skull Servant,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,290,Treeborn Frog,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,289,White Stingray,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,308,Atlantean Squad,monster,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,307,Book of Life,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,309,Fish Sonar,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,310,Water Hazard,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+5,Villager 2,1,Moon,306,Wave-Motion Inferno,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,300,Alien Ammonite,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,297,Babycerasaurus,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,296,Dekoichi,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,298,Magician of Faith,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,299,Needle Worm,monster,1,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,320,Alien Brain,trap,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,319,Bug Emergency,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,316,Machine Assembly,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,318,Spellbook of E.,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+6,Villager 3,1,Mercury,317,Stumbling,spell,2,15/2048 (0.732422%),45/2048 (2.197266%),—
+7,Seto,2,Sun / Venus,284,Adama Researcher,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,283,Exiled Force,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,285,Solar Flare Dragon,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,282,T.Dragonmatrix,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,281,White Stone Legend,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,301,Dmaid Welcome,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,304,Shield and Sword,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,303,Skyscraper,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,302,T.Dragon Fusion,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,305,Dark Room of Nightmare,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,324,Castle Walls,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,323,Hero Signal,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,321,Return of D. L.,spell,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,322,Thunder Discharge,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+7,Seto,2,Sun / Venus,325,Volcanic Emission,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+8,Heishin,7,Moon / Mercury,375,Agent Saturn,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,362,Batteryman Charger,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+8,Heishin,7,Moon / Mercury,364,Block Dragon,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+8,Heishin,7,Moon / Mercury,372,Cyber Slash,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,374,Dandylion,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,378,Dark Magician Chaos,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,368,Deep Sea Prima.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,363,E-HERO Solid,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+8,Heishin,7,Moon / Mercury,371,Fire Fist Bear,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,377,Giant Rex,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,366,Infernity Necr.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,379,Inzektor Centipede,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,376,Orcust Knightmare,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,365,Paths of Destiny,trap,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+8,Heishin,7,Moon / Mercury,380,Reptilianne Vaskii,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,373,Rescue Cat,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,370,Ronintoadin,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,367,Vampire Lord,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,369,White Aura Mon.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,393,Bazoo the Soul-Eater,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,387,Cursed Eldland,spell,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,383,E-HERO Sunrise,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,391,Fire Fist Gorilla,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,394,Gigaplant,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,382,Industrial Bat.,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,399,Inzektor Dragonfly,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,396,Jinzo,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,384,Koa'ki Guardian,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,398,Magicians' Souls,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,386,Malacoda,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,388,Merm Abyssmegalo,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,395,Neo-Parshath,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,397,Overtex Qoatlus,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,400,Reptilianne Hydra,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,392,Simorgh Repulsion,spell,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,390,Tearlaments Sc.,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,385,Volcanic Doomfire,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,389,White Aura Whale,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,404,Adama Dragite,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,415,Ancient Sacred.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,416,Chimeratech Ov.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,420,Cosmic Gol'gar,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,406,Dark Necrofear,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,419,Digital Bug Corebage,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,411,Fire Fist Tige.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,412,Harpie Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,413,Joyous Melffys,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,409,King Coelacanth,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,407,King Skull Servants,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,403,M-HERO Dark Law,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,408,Neo-Daedalus,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,414,Teardrop Rikka Queen,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,410,Tearlaments Ru.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,418,The Dark Magicians,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,402,Thunder D. Tit.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,417,Ultimate Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+8,Heishin,7,Moon / Mercury,405,Volcanic Emperor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+9,Rex Raptor,2,Mercury,300,Alien Ammonite,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,297,Babycerasaurus,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,296,Dekoichi,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,298,Magician of Faith,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,299,Needle Worm,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,320,Alien Brain,trap,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,319,Bug Emergency,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,316,Machine Assembly,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,318,Spellbook of E.,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,317,Stumbling,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,336,C.Dragon Core,monster,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,338,Magicians' Combo,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,339,Man-Eater Bug,monster,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,340,Planet Pollutant,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+9,Rex Raptor,2,Mercury,337,Survival's End,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,288,Atlantean Marksman,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,286,Fabled Raven,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,287,Skull Servant,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,290,Treeborn Frog,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,289,White Stingray,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,308,Atlantean Squad,monster,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,307,Book of Life,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,309,Fish Sonar,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,310,Water Hazard,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,306,Wave-Motion Inferno,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,330,Dupe Frog,monster,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,326,Infernity Break,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,328,Torrential Reborn,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,329,White Moray,monster,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+10,Weevil Underwood,2,Mercury,327,Wightprince,monster,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,293,Beast Soul Swap,trap,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,295,Dancing Fairy,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,292,Harpie Harpist,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,294,Mystic Tomato,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,291,Zoodiac Ratpier,monster,1,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,311,Fire Formation.,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,312,Hysteric Sign,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,313,Kalantosa,monster,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,314,Rikka Konkon,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,315,Sanctuary in the Sky,spell,2,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,331,Emperor's Holiday,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,332,Harpies' Hunting Ground,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,334,Pollinosis,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,335,Solemn Wishes,trap,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+11,Mai Valentine,2,Venus,333,Wild Nature's.,spell,3,11/2048 (0.537109%),32/2048 (1.562500%),—
+12,Bandit Keith,3,Mercury / Moon,320,Alien Brain,trap,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,319,Bug Emergency,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,316,Machine Assembly,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,318,Spellbook of E.,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,317,Stumbling,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,336,C.Dragon Core,monster,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,338,Magicians' Combo,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,339,Man-Eater Bug,monster,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,340,Planet Pollutant,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,337,Survival's End,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,356,Cyber Dragon,monster,4,12/2048 (0.585938%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,359,Desert Locusts,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,358,Magician's Rod,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,360,Reptilianne Medusa,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+12,Bandit Keith,3,Mercury / Moon,357,Souleating Ovi.,monster,4,12/2048 (0.585938%),34/2048 (1.660156%),—
+13,Shadi,3,Sun / Venus,304,Shield and Sword,spell,2,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,303,Skyscraper,spell,2,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,302,T.Dragon Fusion,spell,2,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,305,Dark Room of Nightmare,spell,2,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,324,Castle Walls,trap,3,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,323,Hero Signal,trap,3,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,322,Thunder Discharge,trap,3,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,325,Volcanic Emission,trap,3,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,342,Batteryman AA,monster,4,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,344,Gorgonic Guardian,monster,4,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,343,Maraud Captain,monster,4,12/2048 (0.585938%),36/2048 (1.757812%),—
+13,Shadi,3,Sun / Venus,345,Volc Scattershot,monster,4,12/2048 (0.585938%),36/2048 (1.757812%),—
+14,Yami Bakura,3,Moon / Venus,308,Atlantean Squad,monster,2,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,310,Water Hazard,spell,2,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,306,Wave-Motion Inferno,spell,2,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,330,Dupe Frog,monster,3,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,326,Infernity Break,trap,3,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,328,Torrential Reborn,trap,3,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,346,Cir of Burning.,monster,4,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,350,Paleozoic Olenoides,trap,4,13/2048 (0.634766%),39/2048 (1.904297%),—
+14,Yami Bakura,3,Moon / Venus,348,Sea Stealth II,spell,4,13/2048 (0.634766%),39/2048 (1.904297%),—
+15,Pegasus,3,Venus / Sun,311,Fire Formation.,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,312,Hysteric Sign,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,313,Kalantosa,monster,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,314,Rikka Konkon,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,315,Sanctuary in the Sky,spell,2,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,331,Emperor's Holiday,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,332,Harpies' Hunting Ground,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,334,Pollinosis,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,335,Solemn Wishes,trap,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,333,Wild Nature's.,spell,3,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,355,Agent Mars,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,351,Glad. Beast Laquari,monster,4,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,352,Harpie Channeler,monster,4,12/2048 (0.585938%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,354,Lonefire Blossom,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+15,Pegasus,3,Venus / Sun,353,Melffy Puppy,monster,4,11/2048 (0.537109%),34/2048 (1.660156%),—
+16,Isis,3,Moon / Venus,307,Book of Life,spell,2,14/2048 (0.683594%),42/2048 (2.050781%),—
+16,Isis,3,Moon / Venus,309,Fish Sonar,spell,2,14/2048 (0.683594%),42/2048 (2.050781%),—
+16,Isis,3,Moon / Venus,329,White Moray,monster,3,14/2048 (0.683594%),42/2048 (2.050781%),—
+16,Isis,3,Moon / Venus,327,Wightprince,monster,3,14/2048 (0.683594%),42/2048 (2.050781%),—
+16,Isis,3,Moon / Venus,349,Fish Rain,trap,4,14/2048 (0.683594%),42/2048 (2.050781%),—
+16,Isis,3,Moon / Venus,347,Wightmare,monster,4,14/2048 (0.683594%),42/2048 (2.050781%),—
+17,Kaiba,4,Sun / Venus,324,Castle Walls,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,323,Hero Signal,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,321,Return of D. L.,spell,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,322,Thunder Discharge,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,325,Volcanic Emission,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,342,Batteryman AA,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,344,Gorgonic Guardian,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,343,Maraud Captain,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,341,Strong Wind Dragon,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,345,Volc Scattershot,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,362,Batteryman Charger,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,364,Block Dragon,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,361,Darkblaze Dragon,monster,5,17/2048 (0.830078%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,363,E-HERO Solid,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+17,Kaiba,4,Sun / Venus,365,Paths of Destiny,trap,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,336,C.Dragon Core,monster,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,338,Magicians' Combo,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,339,Man-Eater Bug,monster,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,340,Planet Pollutant,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,337,Survival's End,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,356,Cyber Dragon,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,359,Desert Locusts,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,358,Magician's Rod,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,360,Reptilianne Medusa,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,357,Souleating Ovi.,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,378,Dark Magician Chaos,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,377,Giant Rex,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,379,Inzektor Centipede,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,376,Orcust Knightmare,monster,5,17/2048 (0.830078%),49/2048 (2.392578%),—
+18,Mage Soldier,4,Mercury / Moon,380,Reptilianne Vaskii,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,330,Dupe Frog,monster,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,326,Infernity Break,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,328,Torrential Reborn,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,329,White Moray,monster,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,327,Wightprince,monster,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,346,Cir of Burning.,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,349,Fish Rain,trap,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,350,Paleozoic Olenoides,trap,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,348,Sea Stealth II,spell,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,347,Wightmare,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,368,Deep Sea Prima.,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,366,Infernity Necr.,monster,5,17/2048 (0.830078%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,370,Ronintoadin,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,367,Vampire Lord,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+19,Jono 2nd,4,Sun / Venus,369,White Aura Mon.,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,331,Emperor's Holiday,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,332,Harpies' Hunting Ground,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,334,Pollinosis,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,335,Solemn Wishes,trap,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,333,Wild Nature's.,spell,3,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,355,Agent Mars,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,351,Glad. Beast Laquari,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,352,Harpie Channeler,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,354,Lonefire Blossom,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,353,Melffy Puppy,monster,4,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,375,Agent Saturn,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,372,Cyber Slash,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,374,Dandylion,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,371,Fire Fist Bear,monster,5,17/2048 (0.830078%),49/2048 (2.392578%),—
+20,Teana 2nd,4,Venus,373,Rescue Cat,monster,5,16/2048 (0.781250%),49/2048 (2.392578%),—
+21,Ocean Mage,5,Moon / Venus,346,Cir of Burning.,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,349,Fish Rain,trap,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,350,Paleozoic Olenoides,trap,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,348,Sea Stealth II,spell,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,347,Wightmare,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,368,Deep Sea Prima.,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,366,Infernity Necr.,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,370,Ronintoadin,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,367,Vampire Lord,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,369,White Aura Mon.,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,387,Cursed Eldland,spell,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,386,Malacoda,monster,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,388,Merm Abyssmegalo,monster,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+21,Ocean Mage,5,Moon / Venus,390,Tearlaments Sc.,monster,6,19/2048 (0.927734%),55/2048 (2.685547%),—
+21,Ocean Mage,5,Moon / Venus,389,White Aura Whale,monster,6,19/2048 (0.927734%),55/2048 (2.685547%),—
+22,High Mage Secmeton,6,Moon / Sun,368,Deep Sea Prima.,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,366,Infernity Necr.,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,370,Ronintoadin,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,367,Vampire Lord,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,369,White Aura Mon.,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,387,Cursed Eldland,spell,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,386,Malacoda,monster,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,388,Merm Abyssmegalo,monster,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+22,High Mage Secmeton,6,Moon / Sun,390,Tearlaments Sc.,monster,6,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,389,White Aura Whale,monster,6,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,406,Dark Necrofear,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,409,King Coelacanth,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,407,King Skull Servants,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,408,Neo-Daedalus,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+22,High Mage Secmeton,6,Moon / Sun,410,Tearlaments Ru.,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+23,Forest Mage,5,Venus / Sun,351,Glad. Beast Laquari,monster,4,23/2048 (1.123047%),67/2048 (3.271484%),—
+23,Forest Mage,5,Venus / Sun,352,Harpie Channeler,monster,4,22/2048 (1.074219%),67/2048 (3.271484%),—
+23,Forest Mage,5,Venus / Sun,353,Melffy Puppy,monster,4,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,372,Cyber Slash,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,371,Fire Fist Bear,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,373,Rescue Cat,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,393,Bazoo the Soul-Eater,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,391,Fire Fist Gorilla,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+23,Forest Mage,5,Venus / Sun,392,Simorgh Repulsion,spell,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+24,High Mage Anubisius,6,Venus / Sun,372,Cyber Slash,monster,5,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,371,Fire Fist Bear,monster,5,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,373,Rescue Cat,monster,5,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,393,Bazoo the Soul-Eater,monster,6,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,391,Fire Fist Gorilla,monster,6,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,392,Simorgh Repulsion,spell,6,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,411,Fire Fist Tige.,monster,7,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,412,Harpie Conductor,monster,7,29/2048 (1.416016%),86/2048 (4.199219%),—
+24,High Mage Anubisius,6,Venus / Sun,413,Joyous Melffys,monster,7,29/2048 (1.416016%),85/2048 (4.150391%),—
+25,Mountain Mage,5,Sun / Moon,342,Batteryman AA,monster,4,21/2048 (1.025391%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,344,Gorgonic Guardian,monster,4,21/2048 (1.025391%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,343,Maraud Captain,monster,4,21/2048 (1.025391%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,345,Volc Scattershot,monster,4,20/2048 (0.976562%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,362,Batteryman Charger,monster,5,20/2048 (0.976562%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,364,Block Dragon,monster,5,20/2048 (0.976562%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,363,E-HERO Solid,monster,5,20/2048 (0.976562%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,365,Paths of Destiny,trap,5,20/2048 (0.976562%),61/2048 (2.978516%),—
+25,Mountain Mage,5,Sun / Moon,383,E-HERO Sunrise,monster,6,20/2048 (0.976562%),60/2048 (2.929688%),—
+25,Mountain Mage,5,Sun / Moon,382,Industrial Bat.,monster,6,20/2048 (0.976562%),60/2048 (2.929688%),—
+25,Mountain Mage,5,Sun / Moon,384,Koa'ki Guardian,monster,6,20/2048 (0.976562%),60/2048 (2.929688%),—
+25,Mountain Mage,5,Sun / Moon,385,Volcanic Doomfire,monster,6,20/2048 (0.976562%),60/2048 (2.929688%),—
+26,High Mage Atenza,6,Sun,362,Batteryman Charger,monster,5,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,364,Block Dragon,monster,5,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,363,E-HERO Solid,monster,5,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,365,Paths of Destiny,trap,5,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,383,E-HERO Sunrise,monster,6,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,382,Industrial Bat.,monster,6,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,384,Koa'ki Guardian,monster,6,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,385,Volcanic Doomfire,monster,6,26/2048 (1.269531%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,404,Adama Dragite,monster,7,25/2048 (1.220703%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,403,M-HERO Dark Law,monster,7,25/2048 (1.220703%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,402,Thunder D. Tit.,monster,7,25/2048 (1.220703%),76/2048 (3.710938%),—
+26,High Mage Atenza,6,Sun,405,Volcanic Emperor,monster,7,25/2048 (1.220703%),76/2048 (3.710938%),—
+27,Desert Mage,5,Mercury / Moon,356,Cyber Dragon,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,359,Desert Locusts,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,358,Magician's Rod,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,360,Reptilianne Medusa,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,357,Souleating Ovi.,monster,4,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,378,Dark Magician Chaos,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,377,Giant Rex,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,379,Inzektor Centipede,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,376,Orcust Knightmare,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,380,Reptilianne Vaskii,monster,5,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,399,Inzektor Dragonfly,monster,6,19/2048 (0.927734%),55/2048 (2.685547%),—
+27,Desert Mage,5,Mercury / Moon,396,Jinzo,monster,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,398,Magicians' Souls,monster,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,397,Overtex Qoatlus,monster,6,19/2048 (0.927734%),56/2048 (2.734375%),—
+27,Desert Mage,5,Mercury / Moon,400,Reptilianne Hydra,monster,6,19/2048 (0.927734%),55/2048 (2.685547%),—
+28,High Mage Martis,6,Mercury / Moon,378,Dark Magician Chaos,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,377,Giant Rex,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,379,Inzektor Centipede,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,376,Orcust Knightmare,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,380,Reptilianne Vaskii,monster,5,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,399,Inzektor Dragonfly,monster,6,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,396,Jinzo,monster,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,398,Magicians' Souls,monster,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,397,Overtex Qoatlus,monster,6,23/2048 (1.123047%),69/2048 (3.369141%),—
+28,High Mage Martis,6,Mercury / Moon,400,Reptilianne Hydra,monster,6,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,416,Chimeratech Ov.,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,420,Cosmic Gol'gar,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,419,Digital Bug Corebage,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,418,The Dark Magicians,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+28,High Mage Martis,6,Mercury / Moon,417,Ultimate Conductor,monster,7,23/2048 (1.123047%),68/2048 (3.320312%),—
+29,Meadow Mage,5,Venus / Moon,355,Agent Mars,monster,4,25/2048 (1.220703%),74/2048 (3.613281%),—
+29,Meadow Mage,5,Venus / Moon,354,Lonefire Blossom,monster,4,25/2048 (1.220703%),74/2048 (3.613281%),—
+29,Meadow Mage,5,Venus / Moon,375,Agent Saturn,monster,5,25/2048 (1.220703%),74/2048 (3.613281%),—
+29,Meadow Mage,5,Venus / Moon,374,Dandylion,monster,5,25/2048 (1.220703%),74/2048 (3.613281%),—
+29,Meadow Mage,5,Venus / Moon,394,Gigaplant,monster,6,25/2048 (1.220703%),73/2048 (3.564453%),—
+29,Meadow Mage,5,Venus / Moon,395,Neo-Parshath,monster,6,25/2048 (1.220703%),73/2048 (3.564453%),—
+30,High Mage Kepura,6,Venus / Moon,375,Agent Saturn,monster,5,33/2048 (1.611328%),98/2048 (4.785156%),—
+30,High Mage Kepura,6,Venus / Moon,374,Dandylion,monster,5,33/2048 (1.611328%),98/2048 (4.785156%),—
+30,High Mage Kepura,6,Venus / Moon,394,Gigaplant,monster,6,33/2048 (1.611328%),98/2048 (4.785156%),—
+30,High Mage Kepura,6,Venus / Moon,395,Neo-Parshath,monster,6,33/2048 (1.611328%),98/2048 (4.785156%),—
+30,High Mage Kepura,6,Venus / Moon,415,Ancient Sacred.,monster,7,33/2048 (1.611328%),98/2048 (4.785156%),—
+30,High Mage Kepura,6,Venus / Moon,414,Teardrop Rikka Queen,monster,7,33/2048 (1.611328%),98/2048 (4.785156%),—
+31,Labyrinth Mage,6,Moon / Mercury,375,Agent Saturn,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,362,Batteryman Charger,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,364,Block Dragon,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,372,Cyber Slash,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,374,Dandylion,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,378,Dark Magician Chaos,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,368,Deep Sea Prima.,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,363,E-HERO Solid,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,371,Fire Fist Bear,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,377,Giant Rex,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,366,Infernity Necr.,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,379,Inzektor Centipede,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,376,Orcust Knightmare,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,365,Paths of Destiny,trap,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,380,Reptilianne Vaskii,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,373,Rescue Cat,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,370,Ronintoadin,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,367,Vampire Lord,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,369,White Aura Mon.,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,393,Bazoo the Soul-Eater,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,387,Cursed Eldland,spell,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,383,E-HERO Sunrise,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,391,Fire Fist Gorilla,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,394,Gigaplant,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,382,Industrial Bat.,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,399,Inzektor Dragonfly,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,396,Jinzo,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,384,Koa'ki Guardian,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,398,Magicians' Souls,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,386,Malacoda,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,388,Merm Abyssmegalo,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,395,Neo-Parshath,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,397,Overtex Qoatlus,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,400,Reptilianne Hydra,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,392,Simorgh Repulsion,spell,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,390,Tearlaments Sc.,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,385,Volcanic Doomfire,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,389,White Aura Whale,monster,6,10/2048 (0.488281%),29/2048 (1.416016%),—
+31,Labyrinth Mage,6,Moon / Mercury,404,Adama Dragite,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,415,Ancient Sacred.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,416,Chimeratech Ov.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,420,Cosmic Gol'gar,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,406,Dark Necrofear,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,419,Digital Bug Corebage,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,411,Fire Fist Tige.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,412,Harpie Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,413,Joyous Melffys,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,409,King Coelacanth,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,407,King Skull Servants,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,403,M-HERO Dark Law,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,408,Neo-Daedalus,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,414,Teardrop Rikka Queen,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,410,Tearlaments Ru.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,418,The Dark Magicians,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,402,Thunder D. Tit.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,417,Ultimate Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+31,Labyrinth Mage,6,Moon / Mercury,405,Volcanic Emperor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,375,Agent Saturn,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,362,Batteryman Charger,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,364,Block Dragon,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,372,Cyber Slash,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,374,Dandylion,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,378,Dark Magician Chaos,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,361,Darkblaze Dragon,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,368,Deep Sea Prima.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,363,E-HERO Solid,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,371,Fire Fist Bear,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,377,Giant Rex,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,366,Infernity Necr.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,379,Inzektor Centipede,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,376,Orcust Knightmare,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,365,Paths of Destiny,trap,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,380,Reptilianne Vaskii,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,373,Rescue Cat,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,370,Ronintoadin,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,367,Vampire Lord,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,369,White Aura Mon.,monster,5,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,393,Bazoo the Soul-Eater,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,387,Cursed Eldland,spell,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,383,E-HERO Sunrise,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,391,Fire Fist Gorilla,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,394,Gigaplant,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,382,Industrial Bat.,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,399,Inzektor Dragonfly,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,396,Jinzo,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,384,Koa'ki Guardian,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,398,Magicians' Souls,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,386,Malacoda,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,388,Merm Abyssmegalo,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,395,Neo-Parshath,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,397,Overtex Qoatlus,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,400,Reptilianne Hydra,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,392,Simorgh Repulsion,spell,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,390,Tearlaments Sc.,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,381,Tyrant Dragon,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+32,Seto 2nd,6,Sun / Venus,385,Volcanic Doomfire,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,389,White Aura Whale,monster,6,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,404,Adama Dragite,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,415,Ancient Sacred.,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,416,Chimeratech Ov.,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,420,Cosmic Gol'gar,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,406,Dark Necrofear,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,419,Digital Bug Corebage,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,411,Fire Fist Tige.,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,412,Harpie Conductor,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,413,Joyous Melffys,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,409,King Coelacanth,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,407,King Skull Servants,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,403,M-HERO Dark Law,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,408,Neo-Daedalus,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,414,Teardrop Rikka Queen,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,410,Tearlaments Ru.,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,418,The Dark Magicians,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,402,Thunder D. Tit.,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,401,Trident Dragion,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,417,Ultimate Conductor,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+32,Seto 2nd,6,Sun / Venus,405,Volcanic Emperor,monster,7,9/2048 (0.439453%),27/2048 (1.318359%),—
+33,Guardian Sebek,7,Venus / Moon,375,Agent Saturn,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,372,Cyber Slash,monster,5,22/2048 (1.074219%),67/2048 (3.271484%),—
+33,Guardian Sebek,7,Venus / Moon,374,Dandylion,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,371,Fire Fist Bear,monster,5,23/2048 (1.123047%),67/2048 (3.271484%),—
+33,Guardian Sebek,7,Venus / Moon,373,Rescue Cat,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,393,Bazoo the Soul-Eater,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,391,Fire Fist Gorilla,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,394,Gigaplant,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,395,Neo-Parshath,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,392,Simorgh Repulsion,spell,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,415,Ancient Sacred.,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,411,Fire Fist Tige.,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,412,Harpie Conductor,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,413,Joyous Melffys,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+33,Guardian Sebek,7,Venus / Moon,414,Teardrop Rikka Queen,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,378,Dark Magician Chaos,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,377,Giant Rex,monster,5,22/2048 (1.074219%),67/2048 (3.271484%),—
+34,Guardian Neku,7,Mercury / Venus,379,Inzektor Centipede,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,376,Orcust Knightmare,monster,5,23/2048 (1.123047%),67/2048 (3.271484%),—
+34,Guardian Neku,7,Mercury / Venus,380,Reptilianne Vaskii,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,399,Inzektor Dragonfly,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,396,Jinzo,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,398,Magicians' Souls,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,397,Overtex Qoatlus,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,400,Reptilianne Hydra,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,416,Chimeratech Ov.,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,420,Cosmic Gol'gar,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,419,Digital Bug Corebage,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,418,The Dark Magicians,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+34,Guardian Neku,7,Mercury / Venus,417,Ultimate Conductor,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,368,Deep Sea Prima.,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,366,Infernity Necr.,monster,5,23/2048 (1.123047%),67/2048 (3.271484%),—
+35,Heishin 2nd,7,Moon / Sun,370,Ronintoadin,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,367,Vampire Lord,monster,5,22/2048 (1.074219%),67/2048 (3.271484%),—
+35,Heishin 2nd,7,Moon / Sun,369,White Aura Mon.,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,387,Cursed Eldland,spell,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,386,Malacoda,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,388,Merm Abyssmegalo,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,390,Tearlaments Sc.,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,389,White Aura Whale,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,406,Dark Necrofear,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,409,King Coelacanth,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,407,King Skull Servants,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,408,Neo-Daedalus,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+35,Heishin 2nd,7,Moon / Sun,410,Tearlaments Ru.,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,362,Batteryman Charger,monster,5,22/2048 (1.074219%),67/2048 (3.271484%),—
+36,Seto 3rd,7,Sun / Mercury,364,Block Dragon,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,361,Darkblaze Dragon,monster,5,23/2048 (1.123047%),67/2048 (3.271484%),—
+36,Seto 3rd,7,Sun / Mercury,363,E-HERO Solid,monster,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,365,Paths of Destiny,trap,5,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,383,E-HERO Sunrise,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,382,Industrial Bat.,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,384,Koa'ki Guardian,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,381,Tyrant Dragon,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,385,Volcanic Doomfire,monster,6,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,404,Adama Dragite,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,403,M-HERO Dark Law,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,402,Thunder D. Tit.,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,401,Trident Dragion,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+36,Seto 3rd,7,Sun / Mercury,405,Volcanic Emperor,monster,7,22/2048 (1.074219%),66/2048 (3.222656%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,375,Agent Saturn,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,362,Batteryman Charger,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,364,Block Dragon,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,372,Cyber Slash,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,374,Dandylion,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,378,Dark Magician Chaos,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,368,Deep Sea Prima.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,363,E-HERO Solid,monster,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,371,Fire Fist Bear,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,377,Giant Rex,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,366,Infernity Necr.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,379,Inzektor Centipede,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,376,Orcust Knightmare,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,365,Paths of Destiny,trap,5,10/2048 (0.488281%),29/2048 (1.416016%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,380,Reptilianne Vaskii,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,373,Rescue Cat,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,370,Ronintoadin,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,367,Vampire Lord,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,369,White Aura Mon.,monster,5,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,393,Bazoo the Soul-Eater,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,387,Cursed Eldland,spell,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,383,E-HERO Sunrise,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,391,Fire Fist Gorilla,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,394,Gigaplant,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,382,Industrial Bat.,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,399,Inzektor Dragonfly,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,396,Jinzo,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,384,Koa'ki Guardian,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,398,Magicians' Souls,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,386,Malacoda,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,388,Merm Abyssmegalo,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,395,Neo-Parshath,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,397,Overtex Qoatlus,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,400,Reptilianne Hydra,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,392,Simorgh Repulsion,spell,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,390,Tearlaments Sc.,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,385,Volcanic Doomfire,monster,6,10/2048 (0.488281%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,389,White Aura Whale,monster,6,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,404,Adama Dragite,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,415,Ancient Sacred.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,416,Chimeratech Ov.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,420,Cosmic Gol'gar,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,406,Dark Necrofear,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,419,Digital Bug Corebage,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,411,Fire Fist Tige.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,412,Harpie Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,413,Joyous Melffys,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,409,King Coelacanth,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,407,King Skull Servants,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,403,M-HERO Dark Law,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,408,Neo-Daedalus,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,414,Teardrop Rikka Queen,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,410,Tearlaments Ru.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,418,The Dark Magicians,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,402,Thunder D. Tit.,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,417,Ultimate Conductor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+37,DarkNite,7,Moon / Mercury / Sun / Venus,405,Volcanic Emperor,monster,7,9/2048 (0.439453%),28/2048 (1.367188%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,375,Agent Saturn,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,362,Batteryman Charger,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,364,Block Dragon,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,372,Cyber Slash,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,374,Dandylion,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,378,Dark Magician Chaos,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,361,Darkblaze Dragon,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,368,Deep Sea Prima.,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,363,E-HERO Solid,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,371,Fire Fist Bear,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,377,Giant Rex,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,366,Infernity Necr.,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,379,Inzektor Centipede,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,376,Orcust Knightmare,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,365,Paths of Destiny,trap,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,380,Reptilianne Vaskii,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,373,Rescue Cat,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,370,Ronintoadin,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,367,Vampire Lord,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,369,White Aura Mon.,monster,5,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,393,Bazoo the Soul-Eater,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,387,Cursed Eldland,spell,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,383,E-HERO Sunrise,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,391,Fire Fist Gorilla,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,394,Gigaplant,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,382,Industrial Bat.,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,399,Inzektor Dragonfly,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,396,Jinzo,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,384,Koa'ki Guardian,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,398,Magicians' Souls,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,386,Malacoda,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,388,Merm Abyssmegalo,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,395,Neo-Parshath,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,397,Overtex Qoatlus,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,400,Reptilianne Hydra,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,392,Simorgh Repulsion,spell,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,390,Tearlaments Sc.,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,381,Tyrant Dragon,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,385,Volcanic Doomfire,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,389,White Aura Whale,monster,6,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,404,Adama Dragite,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,415,Ancient Sacred.,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,416,Chimeratech Ov.,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,420,Cosmic Gol'gar,monster,7,9/2048 (0.439453%),22/2048 (1.074219%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,406,Dark Necrofear,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,419,Digital Bug Corebage,monster,7,9/2048 (0.439453%),22/2048 (1.074219%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,411,Fire Fist Tige.,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,412,Harpie Conductor,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,413,Joyous Melffys,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,409,King Coelacanth,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,407,King Skull Servants,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,403,M-HERO Dark Law,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,408,Neo-Daedalus,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,414,Teardrop Rikka Queen,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,410,Tearlaments Ru.,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,418,The Dark Magicians,monster,7,9/2048 (0.439453%),22/2048 (1.074219%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,402,Thunder D. Tit.,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,401,Trident Dragion,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,417,Ultimate Conductor,monster,7,9/2048 (0.439453%),22/2048 (1.074219%),—
+38,Nitemare,7,Sun / Moon / Venus / Mercury,405,Volcanic Emperor,monster,7,9/2048 (0.439453%),23/2048 (1.123047%),—
+39,Duel Master K,1,—,284,Adama Researcher,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,300,Alien Ammonite,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,288,Atlantean Marksman,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,297,Babycerasaurus,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,293,Beast Soul Swap,trap,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,295,Dancing Fairy,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,296,Dekoichi,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,283,Exiled Force,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+39,Duel Master K,1,—,286,Fabled Raven,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,292,Harpie Harpist,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,298,Magician of Faith,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,294,Mystic Tomato,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,299,Needle Worm,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,287,Skull Servant,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,285,Solar Flare Dragon,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,282,T.Dragonmatrix,monster,1,8/2048 (0.390625%),23/2048 (1.123047%),—
+39,Duel Master K,1,—,290,Treeborn Frog,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,289,White Stingray,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,291,Zoodiac Ratpier,monster,1,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,320,Alien Brain,trap,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,308,Atlantean Squad,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,307,Book of Life,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,319,Bug Emergency,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,301,Dmaid Welcome,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,311,Fire Formation.,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,309,Fish Sonar,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,312,Hysteric Sign,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,313,Kalantosa,monster,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,316,Machine Assembly,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,314,Rikka Konkon,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,315,Sanctuary in the Sky,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,304,Shield and Sword,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,303,Skyscraper,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,318,Spellbook of E.,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,317,Stumbling,spell,2,7/2048 (0.341797%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,302,T.Dragon Fusion,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,305,Dark Room of Nightmare,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,310,Water Hazard,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
+39,Duel Master K,1,—,306,Wave-Motion Inferno,spell,2,8/2048 (0.390625%),22/2048 (1.074219%),—
