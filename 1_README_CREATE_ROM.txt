@@ -1,4 +1,4 @@
-LUCKY STARS CHAMPIONS v5.1.38-r335
+LUCKY STARS CHAMPIONS v5.1.38-r336
 
 1. Extract the whole package.
 2. Put your own Yu-Gi-Oh! Forbidden Memories (USA) BIN in Place_Vanilla_Rom_Here.
